@@ -1,0 +1,13 @@
+java -jar E:\Genomics2006\LTRdata\RankLib-v2.1\bin\RankLib.jar -load E:\Genomics2006\LTRdata\2007nlm\five-ori\fold1\rankboost.txt -rank E:\Genomics2006\LTRdata\2007nlm\five-ori\fold1\test.txt -metric2T MAP -score E:\Genomics2006\LTRdata\2007nlm\five-ori\fold1\rankboostscore.txt
+
+java -jar E:\Genomics2006\LTRdata\RankLib-v2.1\bin\RankLib.jar -load E:\Genomics2006\LTRdata\2007nlm\five-ori\fold2\rankboost.txt -rank E:\Genomics2006\LTRdata\2007nlm\five-ori\fold2\test.txt -metric2T MAP -score E:\Genomics2006\LTRdata\2007nlm\five-ori\fold2\rankboostscore.txt
+
+java -jar E:\Genomics2006\LTRdata\RankLib-v2.1\bin\RankLib.jar -load E:\Genomics2006\LTRdata\2007nlm\five-ori\fold3\rankboost.txt -rank E:\Genomics2006\LTRdata\2007nlm\five-ori\fold3\test.txt -metric2T MAP -score E:\Genomics2006\LTRdata\2007nlm\five-ori\fold3\rankboostscore.txt
+
+java -jar E:\Genomics2006\LTRdata\RankLib-v2.1\bin\RankLib.jar -load E:\Genomics2006\LTRdata\2007nlm\five-ori\fold4\rankboost.txt -rank E:\Genomics2006\LTRdata\2007nlm\five-ori\fold4\test.txt -metric2T MAP -score E:\Genomics2006\LTRdata\2007nlm\five-ori\fold4\rankboostscore.txt
+
+java -jar E:\Genomics2006\LTRdata\RankLib-v2.1\bin\RankLib.jar -load E:\Genomics2006\LTRdata\2007nlm\five-ori\fold5\rankboost.txt -rank E:\Genomics2006\LTRdata\2007nlm\five-ori\fold5\test.txt -metric2T MAP -score E:\Genomics2006\LTRdata\2007nlm\five-ori\fold5\rankboostscore.txt
+
+pause
+
+
