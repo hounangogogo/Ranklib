@@ -1,0 +1,3 @@
+java -jar RankLib.jar -train /Users/zhaohaonan/NLP/Ranklib/data_set/Fold1/train.txt -ranker 0 -metric2t MAP -save /Users/zhaohaonan/NLP/Ranklib/data_set/Fold1/model.txt
+
+java -jar RankLib.jar -load /Users/zhaohaonan/NLP/Ranklib/data_set/Fold1/model.txt -rank /Users/zhaohaonan/NLP/Ranklib/data_set/Fold1/test.txt -metric2T MAP -score 0_result.txt
